@@ -1,3 +1,6 @@
 npx json-server --watch data/db.json --port 8000
 
+
+json-server --watch data/db.json --port 8000
+
 #watch 24th number video carefully . I didn't understand that.

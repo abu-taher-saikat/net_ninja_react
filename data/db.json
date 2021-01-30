@@ -1,16 +1,10 @@
 {
-    "blogs":[
-        {
-            "title" : "My First Blog",
-            "body" : "lorem20 why d ywe use a long established fact that a reader will be distracter  ",
-            "author": "mario",
-            "id" : 1
-        },
-        {
-            "title" : "Opening Party",
-            "body" : "why whatn adfjalsdf a sdfkja sdfawhaidofpasdf asdpofnz,zjd x,.aa;seuasdasx,x",
-            "author" : "yoshi",
-            "id" : 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "what the fuck is going on.AJAX allows web pages to be updated asynchronously by exchanging data with a web server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page.",
+      "author": "mario",
+      "id": 1
+    }
+  ]
 }
